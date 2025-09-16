@@ -1,0 +1,11 @@
+D:\United Tractors\KPP\src\ComponentManagement.Domain\bin\Debug\net8.0\ComponentManagement.Domain.deps.json
+D:\United Tractors\KPP\src\ComponentManagement.Domain\bin\Debug\net8.0\ComponentManagement.Domain.dll
+D:\United Tractors\KPP\src\ComponentManagement.Domain\bin\Debug\net8.0\ComponentManagement.Domain.pdb
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ComponentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ComponentManagement.Domain.AssemblyInfoInputs.cache
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ComponentManagement.Domain.AssemblyInfo.cs
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ComponentManagement.Domain.csproj.CoreCompileInputs.cache
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ComponentManagement.Domain.dll
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\refint\ComponentManagement.Domain.dll
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ComponentManagement.Domain.pdb
+D:\United Tractors\KPP\src\ComponentManagement.Domain\obj\Debug\net8.0\ref\ComponentManagement.Domain.dll

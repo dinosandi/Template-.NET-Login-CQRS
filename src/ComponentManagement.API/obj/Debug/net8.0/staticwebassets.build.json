@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2O+P9ZW1tzS1kfLuTGpUdp/PnxFJ+1Jt7c6CStSkfhA=",
+  "Source": "ComponentManagement.API",
+  "BasePath": "_content/ComponentManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

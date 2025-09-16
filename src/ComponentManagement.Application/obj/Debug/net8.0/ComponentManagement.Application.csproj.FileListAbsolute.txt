@@ -1,0 +1,15 @@
+D:\United Tractors\KPP\src\ComponentManagement.Application\bin\Debug\net8.0\ComponentManagement.Application.deps.json
+D:\United Tractors\KPP\src\ComponentManagement.Application\bin\Debug\net8.0\ComponentManagement.Application.dll
+D:\United Tractors\KPP\src\ComponentManagement.Application\bin\Debug\net8.0\ComponentManagement.Application.pdb
+D:\United Tractors\KPP\src\ComponentManagement.Application\bin\Debug\net8.0\ComponentManagement.Domain.dll
+D:\United Tractors\KPP\src\ComponentManagement.Application\bin\Debug\net8.0\ComponentManagement.Domain.pdb
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.csproj.AssemblyReference.cache
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.AssemblyInfoInputs.cache
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.AssemblyInfo.cs
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.csproj.CoreCompileInputs.cache
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\Componen.4825F56E.Up2Date
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.dll
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\refint\ComponentManagement.Application.dll
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.pdb
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ref\ComponentManagement.Application.dll
