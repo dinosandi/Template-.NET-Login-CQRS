@@ -93,7 +93,35 @@ https://prime-kppmining.com/Component/Detail/{component.Id}
 }
 
 
-   
+    // // ==========================
+    // // PRIVATE HELPERS
+    // // ==========================
+    // private async Task SendAsync(string message)
+    // {
+    //     var payload = new
+    //     {
+    //         target = TARGET,
+    //         message = message
+    //     };
+
+    //     var content = new StringContent(
+    //         JsonSerializer.Serialize(payload),
+    //         Encoding.UTF8,
+    //         "application/json"
+    //     );
+
+    //     var request = new HttpRequestMessage(HttpMethod.Post, FONNTE_URL);
+    //     request.Headers.Add("Authorization", AUTH_TOKEN);
+    //     request.Content = content;
+
+    //     var response = await _httpClient.SendAsync(request);
+
+    //     if (!response.IsSuccessStatusCode)
+    //     {
+    //         var body = await response.Content.ReadAsStringAsync();
+    //         throw new Exception($"Fonnte Error: {body}");
+    //     }
+    // }
 
     public async Task SendFabricationRequestQrAsync(PartComponent component)
     {
