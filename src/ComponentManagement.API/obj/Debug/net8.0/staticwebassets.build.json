@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "2O+P9ZW1tzS1kfLuTGpUdp/PnxFJ+1Jt7c6CStSkfhA=",
+  "Hash": "U/Ib6oYt4bUS/Clx4IxpQ6mtGH0SQAezMWSXIy6wK2g=",
   "Source": "ComponentManagement.API",
   "BasePath": "_content/ComponentManagement.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ComponentManagement.API\\wwwroot",
+      "Source": "ComponentManagement.API",
+      "ContentRoot": "D:\\United Tractors\\KPP\\src\\ComponentManagement.API\\wwwroot\\",
+      "BasePath": "_content/ComponentManagement.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\United Tractors\\KPP\\src\\ComponentManagement.API\\wwwroot\\uploads\\5a371a6e-fea4-4f91-8de6-2a1bfcc518c0_b6bbc7be310c4ad37b793fbd139cd0b3.jpg",
+      "SourceId": "ComponentManagement.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\United Tractors\\KPP\\src\\ComponentManagement.API\\wwwroot\\",
+      "BasePath": "_content/ComponentManagement.API",
+      "RelativePath": "uploads/5a371a6e-fea4-4f91-8de6-2a1bfcc518c0_b6bbc7be310c4ad37b793fbd139cd0b3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5a371a6e-fea4-4f91-8de6-2a1bfcc518c0_b6bbc7be310c4ad37b793fbd139cd0b3.jpg"
+    },
+    {
+      "Identity": "D:\\United Tractors\\KPP\\src\\ComponentManagement.API\\wwwroot\\uploads\\ee997818-eb29-486c-bb6e-89acd8c9d90e_qr_6bba169f-cc8f-4514-b0e0-8613b5f2e994.png",
+      "SourceId": "ComponentManagement.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\United Tractors\\KPP\\src\\ComponentManagement.API\\wwwroot\\",
+      "BasePath": "_content/ComponentManagement.API",
+      "RelativePath": "uploads/ee997818-eb29-486c-bb6e-89acd8c9d90e_qr_6bba169f-cc8f-4514-b0e0-8613b5f2e994.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ee997818-eb29-486c-bb6e-89acd8c9d90e_qr_6bba169f-cc8f-4514-b0e0-8613b5f2e994.png"
+    }
+  ]
 }

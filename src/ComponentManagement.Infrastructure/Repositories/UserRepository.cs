@@ -29,5 +29,15 @@ namespace ComponentManagement.Infrastructure.Repositories
         {
             await _context.SaveChangesAsync();
         }
+        public async Task DeleteAsync(User user)
+        {
+            _context.Users.Remove(user);
+            await _context.SaveChangesAsync();
+        }
+        public async Task<User> GetByIdAsync(System.Guid userId)
+        {
+            return await _context.Users.FirstOrDefaultAsync(u => u.Id == userId);
+        }
+
     }
 }

@@ -7,6 +7,8 @@ namespace ComponentManagement.Application.Users.Commands
     {
         public string Username { get; set; }
         public string Password { get; set; }
+        public string Email { get; set; }
+        public string NoHp { get; set; }
         public required UserRole Role { get; set; }
     }
 

@@ -1,8 +1,7 @@
 using MediatR;
 using ComponentManagement.Application.Users.Commands;
 using ComponentManagement.Application.Interfaces;
-using System.Threading;
-using System.Threading.Tasks;
+
 
 namespace ComponentManagement.Application.Users.Handlers
 {
@@ -10,12 +9,15 @@ namespace ComponentManagement.Application.Users.Handlers
     {
         private readonly IUserService _userService;
         private readonly IAuthenticationService _authService;
+        private readonly IRefreshTokenService _refreshTokenService;
 
-        public LoginCommandHandler(IUserService userService, IAuthenticationService authService)
+        public LoginCommandHandler(IUserService userService, IAuthenticationService authService, IRefreshTokenService refreshTokenService)
         {
             _userService = userService;
             _authService = authService;
+            _refreshTokenService = refreshTokenService;
         }
+
 
         public async Task<LoginResponse> Handle(LoginCommand request, CancellationToken cancellationToken)
         {
@@ -28,12 +30,17 @@ namespace ComponentManagement.Application.Users.Handlers
 
             var token = _authService.GenerateJwtToken(user);
 
+            // Buat refresh token via service
+            var refreshToken = await _refreshTokenService.CreateNewTokenAsync(user);
+
             return new LoginResponse
             {
                 Token = token,
                 Username = user.Username,
-                Role = user.Role.ToString()
+                Role = user.Role.ToString(),
+                RefreshToken = refreshToken.RawToken
             };
         }
+
     }
 }

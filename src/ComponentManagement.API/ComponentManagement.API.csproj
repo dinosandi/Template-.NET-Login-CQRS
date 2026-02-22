@@ -27,4 +27,10 @@
     <ProjectReference Include="..\ComponentManagement.Infrastructure\ComponentManagement.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\uploads\" />
+  </ItemGroup>
+
 </Project>

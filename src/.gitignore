@@ -1,0 +1,23 @@
+# ===============================
+# ASP.NET Core AppSettings
+# ===============================
+ComponentManagement.API/appsettings.json
+ComponentManagement.API/appsettings.*.json
+
+# ===============================
+# wwwroot uploads (runtime files)
+# ===============================
+ComponentManagement.API/wwwroot/uploads/*
+ComponentManagement.API/wwwroot/uploads/**
+
+# ===============================
+# Build artifacts
+# ===============================
+**/bin/
+**/obj/
+**/out/
+
+# ===============================
+# Logs & temp
+# ===============================
+*.log

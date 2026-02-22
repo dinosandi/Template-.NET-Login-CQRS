@@ -13,3 +13,4 @@ D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\Comp
 D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\refint\ComponentManagement.Application.dll
 D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.pdb
 D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ref\ComponentManagement.Application.dll
+D:\United Tractors\KPP\src\ComponentManagement.Application\obj\Debug\net8.0\ComponentManagement.Application.sourcelink.json

@@ -17,3 +17,4 @@ D:\United Tractors\KPP\src\ComponentManagement.Infrastructure\obj\Debug\net8.0\r
 D:\United Tractors\KPP\src\ComponentManagement.Infrastructure\obj\Debug\net8.0\ComponentManagement.Infrastructure.pdb
 D:\United Tractors\KPP\src\ComponentManagement.Infrastructure\obj\Debug\net8.0\ComponentManagement.Infrastructure.genruntimeconfig.cache
 D:\United Tractors\KPP\src\ComponentManagement.Infrastructure\obj\Debug\net8.0\ref\ComponentManagement.Infrastructure.dll
+D:\United Tractors\KPP\src\ComponentManagement.Infrastructure\obj\Debug\net8.0\ComponentManagement.Infrastructure.sourcelink.json
